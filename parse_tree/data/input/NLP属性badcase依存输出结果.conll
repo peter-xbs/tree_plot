@@ -1,0 +1,314 @@
+甲状腺右叶部分切除术后	0	dis	-1
+右	1	pos	0
+叶	2	bod	3
+强回声反射	3	sym	0
+考虑	4	pob	5
+术后改变	5	sym	3
+右	6	pos	7
+叶	7	bod	11
+多发	8	adj	11
+实性	9	adj	11
+囊实性	10	adj	11
+结节	11	sym	5
+边界清	12	adj	13
+形状规则	13	exa	11
+内部回声不均匀	14	sym	-1
+最大	15	exa	14
+1.1×1.0×0.7cm	16	rv	15
+cdfi	17	exm	-1
+未见	18	neg	20
+明显	19	adj	20
+血流信号	20	exa	17
+
+
+可行	0	pob	1
+腹腔镜	1	equ	4
+下	2	pos	1
+部分	3	adj	4
+切除术	4	sur	5
+病情	5	exa	-1
+
+
+2011年03月17日	0	dat	3
+2011年05月30日	1	dat	2
+chop	2	med	3
+化疗	3	tot	-1
+四周期	4	rv	3
+epi	5	med	4
+40mgd1d2	6	rv	5
++	7	rv	5
+pred	8	med	7
+60mgd1-5	9	rv	8
++	10	rv	9
+ctx	11	med	8
+1.0d1	12	rv	11
++	13	rv	11
+vcr	14	med	11
+2mgd1	15	rv	14
+两周期	16	rv	11
+cru	17	adj	16
+
+
+1周前	0	dat	2
+乳房	1	bod	2
+右腋下肿物	2	sym	-1
+质	3	exa	2
+硬	4	adj	3
+1.5cm	5	rv	6
+大小	6	exa	2
+活动度	7	exa	6
+差	8	adj	7
+
+无	0	neg	1
+疼痛	1	sym	-1
+红肿	2	sym	1
+乳头溢液	3	sym	1
+
+我院	0	hospital	-1
+mmg	1	dis	0
+bus	2	rv	4
+右乳肿物	3	sym	4
+乳癌	4	dis	1
+
+
+颈左）非霍奇金淋巴瘤	0	dis	-1
+左颈	1	bod	9
+左腋下	2	bod	1
+双侧	3	pos	4
+膈脚后	4	bod	9
+腹膜后	5	bod	4
+双侧	6	pos	7
+腰大肌内侧	7	bod	9
+双	8	pos	9
+髂脉区淋巴结受累	9	sym	0
+病理	10	exm	-1
+滤泡型淋巴瘤	11	dis	10
+i-ii级	12	cla	19
+cd20	13	exa	19
++++	14	rv	13
+cs	15	exa	13
+iii期a	16	cla	15
+flipi	17	exa	13
+1分	18	rv	17
+受累淋巴结	19	dis	11
+
+一弟	0	fam	2
+2014年	1	dat	2
+心力衰竭	2	dis	-1
+去世	3	sus	2
+2个	4	rv	3
+弟弟	5	fam	6
+心脏搭桥手术	6	sur	-1
+
+1月前	0	dat	1
+查体	1	exm	-1
+甲状腺肿物	2	sym	1
+伴	3	act	1
+双侧甲状腺区不适	4	sym	3
+不	5	neg	6
+伴发热	6	sym	4
+咳嗽	7	sym	6
+吞咽困难	8	sym	6
+憋气	9	sym	6
+手足麻木	10	sym	6
+症状	11	sym	6
+未予	12	neg	14
+特殊	13	adj	14
+处理	14	act	6
+复查	15	exm	14
+
+诊治	0	act	-1
+我院	1	hospital	-1
+门诊彩超	2	exm	-1
+甲状腺	3	bod	6
+左叶	4	bod	3
+实性	5	adj	6
+肿物	6	sym	8
+考虑	7	pob	8
+ca	8	dis	2
+不典型结甲	9	dis	8
+除外	10	neg	11
+ti	11	exa	8
+-	12	rv	11
+rads	13	dis	-1
+4b级	14	cla	13
+
+甲状腺右叶	0	bod	2
+实性	1	adj	2
+结节	2	sym	4
+考虑	3	pob	4
+结节性甲状腺肿结节	4	dis	-1
+t	5	dis	4
+i	6	cla	8
+-	7	rv	8
+rads	8	dis	5
+2级	9	cla	8
+
+拟行	0	pob	1
+手术	1	sur	2
+甲状腺肿物	2	dis	-1
+我科	3	hospital	-1
+
+
+原发性肝癌	0	dis	-1
+2次	1	rv	2
+射频消融治疗后	2	dis	0
+3月余	3	tim	4
+腹胀	4	sym	0
+伴	5	act	-1
+腰背部疼痛	6	sym	5
+尿少	7	sym	5
+1周	8	tim	7
+
+
+原发性肝癌	0	dis	-1
+介入治疗后	1	dis	0
+1月余	2	tim	1
+
+
+2015.8.13	0	dat	2
+再次	1	adj	2
+入院	2	act	-1
+2015.8.18	3	dat	2
+选择性	4	adj	5
+肝动脉化疗栓塞术	5	sur	3
+术后	6	ds	5
+给予	7	act	6
+对症支持治疗	8	tot	7
+恢复	9	adj	8
+良好	10	adj	9
+
+
+
+术后病理	0	exm	-1
+右侧颈部淋巴结	1	bod	3
+转移性	2	adj	3
+低分化腺癌	3	dis	0
+大病理	4	exm	3
+切检后	5	dis	4
+右	6	pos	7
+乳腺外上象限	7	bod	9
+少量	8	adj	9
+导管内癌组织	9	dis	5
+成片	10	adj	11
+纤维化区域	11	sym	9
+化疗反应	12	sym	11
+iii度	13	cla	11
+
+0/19	0	rv	2
+2个	1	rv	0
+淋巴结纤维化	2	dis	-1
+不除外	3	pob	4
+化疗反应	4	sym	2
+
+查体	0	exm	-1
+发育	1	exa	0
+正常	2	adj	1
+营养	3	exa	0
+中等	4	adj	3
+神	5	exa	0
+清	6	adj	5
+体位	7	exa	0
+
+皮肤粘膜	0	bod	3
+无	1	neg	3
+苍白	2	col	3
+黄染出血点	3	sym	-1
+
+左乳癌术后	0	dis	-1
+胸壁	1	dis	0
+复发	2	copy	6
+肝	3	bod	6
+骨	4	bod	3
+淋巴结	5	bod	6
+转移	6	dis	1
+胸腔积液	7	dis	6
+ps	8	exa	9
+浸润性导管癌	9	dis	7
+cs	10	exa	9
+iv期	11	cla	10
+
+肝	0	bod	2
+ⅵ	1	cla	0
+肝细胞肝癌	2	dis	5
+典型	3	adj	5
+高分化	4	adj	5
+微血管侵犯	5	dis	-1
+mvi风险分级	6	exa	5
+m1	7	cla	6
+未见	8	neg	9
+卫星结节	9	sym	-1
+
+
+我院	0	hospital	-1
+b超	1	exm	-1
+甲状腺	2	bod	8
+左叶	3	bod	2
+内侧深层	4	pos	3
+0.56×0.46×0.70cm	5	rv	4
+低回声	6	adj	8
+实性	7	adj	8
+肿物	8	sym	1
+甲状腺	9	bod	8
+左	10	pos	11
+叶上极外侧	11	bod	9
+0.26×0.33×0.36cm	12	rv	17
+低回声	13	adj	15
+实性	14	adj	15
+结节	15	sym	17
+考虑	16	pob	17
+不典型结甲	17	dis	11
+ca	18	dis	17
+除外	19	neg	21
+（	20	rv	21
+t	21	dis	18
+i	22	cla	21
+-	23	rv	22
+rads	24	dis	17
+4a级	25	cla	24
+甲状腺	26	bod	31
+左叶	27	bod	26
+多发	28	adj	31
+实性	29	adj	31
+囊实性	30	adj	31
+结节	31	sym	40
+最大	32	exa	31
+0.7×0.6cm	33	rv	32
+甲状腺	34	bod	38
+叶	35	bod	38
+3.2×3.0×1.8cm	36	rv	38
+囊实性	37	adj	38
+肿物	38	sym	40
+考虑	39	pob	40
+结节性甲状腺肿	40	dis	24
+t	41	dis	40
+i	42	cla	41
+-	43	rv	44
+rads	44	dis	42
+2级	45	cla	44
+拟行	46	pob	45
+手术	47	sur	44
+入院	48	act	47
+治疗	49	tot	48
+
+
+2011-02-14	0	dat	-1
+2011-06-04	1	dat	0
+我科	2	hospital	-1
+美罗华	3	med	13
+600mgd0	4	rv	3
+vcr	5	med	3
+2mgd1	6	rv	5
+epi	7	med	3
+50mgd1d2	8	rv	7
+ctx	9	med	3
+1.0d1	10	rv	9
+pred	11	med	3
+100mgd1-5	12	rv	11
+化疗	13	tot	2
+六周期	14	rv	16
+四周期	15	rv	16
+复查ct	16	exm	13
+pr	17	adj	16
+
+
